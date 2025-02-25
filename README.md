@@ -54,6 +54,7 @@
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" title="PHP"/><br>PHP</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" title="Firebase"/><br>Firebase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" title="Firebase"/><br>Supabase</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" title="Flask"/><br>Flask</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="Node.js"/><br>Node.js</td>
   </tr>
