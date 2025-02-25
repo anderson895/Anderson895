@@ -69,7 +69,7 @@
     <th colspan="7" style="text-align:center;">UI/UX and Version Control</th>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="40" height="40" title="Git"/><br>Git</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40" title="Git"/><br>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="40" height="40" title="Unity"/><br>Unity</td>
   </tr>
 </table>
