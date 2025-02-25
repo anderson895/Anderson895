@@ -63,8 +63,9 @@
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server"/><br>SQL Server</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server"/><br>Microsoft SQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" title="SQLite"/><br>SQLite</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="40" height="40" title="SQLite"/><br>posgreSQL</td>
   </tr>
   <tr>
     <th colspan="7" style="text-align:center;">UI/UX and Version Control</th>
