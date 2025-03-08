@@ -34,42 +34,44 @@
 <!-- Languages and Tools -->
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
-<table align="center">
-  <tr>
-    <th colspan="7" align="center">Front-End Technologies</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML" /><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS" /><br>CSS</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" title="Bootstrap" /><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind" /><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="React" /><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript" /><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40" height="40" title="jQuery" /><br>jQuery</td>
-  </tr>
-  <tr>
-    <th colspan="7" align="center">Back-End Technologies</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" title="C++" /><br>C++</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40" height="40" title="C#" /><br>C#</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" /><br>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" title="PHP" /><br>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" title="Firebase" /><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" title="Supabase" /><br>Supabase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" title="Flask" /><br>Flask</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="Node.js" /><br>Node.js</td>
-  </tr>
-  <tr>
-    <th colspan="7" align="center">Database Technologies</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>Microsoft SQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" title="SQLite" /><br>SQLite</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" title="PostgreSQL" /><br>PostgreSQL</td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center">
+    <tr>
+      <th colspan="7" align="center">Front-End Technologies</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+      <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
+    </tr>
+    <tr>
+      <th colspan="7" align="center">Back-End Technologies</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"><br>C++</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40"><br>C#</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"><br>Java</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"><br>Firebase</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="45"><br>Supabase</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js</td>
+    </tr>
+    <tr>
+      <th colspan="4" align="center">Database Technologies</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"><br>MySQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"><br>Microsoft SQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"><br>SQLite</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="40"><br>PostgreSQL</td>
+    </tr>
+  </table>
+</p>
 
 <hr/>
 
