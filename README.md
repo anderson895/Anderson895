@@ -69,6 +69,7 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"><br>Microsoft SQL</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"><br>SQLite</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="40"><br>PostgreSQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="40"><br>MariaDB</td>
     </tr>
   </table>
 </p>
@@ -86,6 +87,5 @@
     <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anderson895&hide=HTML&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
     <br/>
     <!-- MariaDB Icon -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB Logo" width="80" />
 </div>
 
