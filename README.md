@@ -84,7 +84,7 @@
     <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=anderson895&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days" alt="GitHub Contribution Graph" />
     <br/>
     <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anderson895&hide=HTML&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-    <br/><br/>
+    <br/>
     <!-- MariaDB Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB Logo" width="80" />
 </div>
