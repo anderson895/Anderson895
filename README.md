@@ -31,11 +31,11 @@
 </div>
 
 ---
-
 <!-- 🛠️ Tech Stack -->
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
 <table align="center">
+  <!-- 🌐 Front-End -->
   <tr><th colspan="8" align="center">🌐 Front-End</th></tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
@@ -48,6 +48,14 @@
     <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
   </tr>
 
+  <!-- 📱 Mobile Development -->
+  <tr><th colspan="4" align="center">📱 Mobile Development</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React Native</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/expo/000020" width="40"><br>Expo</td>
+  </tr>
+
+  <!-- 🧠 Back-End -->
   <tr><th colspan="8" align="center">🧠 Back-End</th></tr>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"><br>C++</td>
@@ -60,6 +68,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js</td>
   </tr>
 
+  <!-- 🗄️ Databases -->
   <tr><th colspan="5" align="center">🗄️ Databases</th></tr>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"><br>MySQL</td>
@@ -69,6 +78,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="40"><br>MariaDB</td>
   </tr>
 </table>
+
 
 ---
 
