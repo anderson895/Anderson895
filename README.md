@@ -46,6 +46,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+      <td align="center"> <img src="https://skillicons.dev/icons?i=vue" width="40"><br>Vue.js</td>
       <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
     </tr>
     <tr>
