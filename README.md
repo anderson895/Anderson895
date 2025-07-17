@@ -49,10 +49,11 @@
   </tr>
 
   <!-- 📱 Mobile Development -->
-  <tr><th colspan="4" align="center">📱 Mobile Development</th></tr>
+  <tr><th colspan="6" align="center">📱 Mobile Development</th></tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React Native</td>
     <td align="center"><img src="https://cdn.simpleicons.org/expo/000020" width="40"><br>Expo</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/unity/000000" width="40"><br>Unity</td>
   </tr>
 
   <!-- 🧠 Back-End -->
@@ -78,6 +79,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="40"><br>MariaDB</td>
   </tr>
 </table>
+
 
 
 ---
