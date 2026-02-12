@@ -38,15 +38,17 @@
   <!-- 🌐 Front-End -->
   <tr><th colspan="8" align="center">🌐 Front-End</th></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="40"><br>Vue.js</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
-  </tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
+  <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"><br>TypeScript</td>
+  <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/brand-shadcn-5698970-4741159.png" width="40"><br>shadcn/ui</td>
+  <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
+</tr>
+
 
   <!-- 📱 Mobile Development -->
   <tr><th colspan="6" align="center">📱 Mobile Development</th></tr>
