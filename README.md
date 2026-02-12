@@ -45,7 +45,6 @@
   <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"><br>TypeScript</td>
-  <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/brand-shadcn-5698970-4741159.png" width="40"><br>shadcn/ui</td>
   <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
 </tr>
 
