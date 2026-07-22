@@ -31,10 +31,19 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  🔭 &nbsp; Currently a <b>freelance web &amp; game developer</b><br/><br/>
-  🌱 &nbsp; Always learning — building <b>modern web &amp; mobile apps</b><br/><br/>
-  🎮 &nbsp; I love turning ideas into <b>interactive experiences</b><br/><br/>
-  💬 &nbsp; Ask me about <b>web dev, game dev &amp; databases</b>
+  <img src="https://img.shields.io/badge/Freelance-Web_%26_Game_Dev-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-Web_%26_Mobile-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Building" />
+  <img src="https://img.shields.io/badge/Based_in-Philippines-7dcfff?style=for-the-badge&labelColor=1a1b27" alt="Location" />
+</p>
+
+<p align="center">
+  <details align="center">
+    <summary>⚡ &nbsp;<b>Click to know more</b></summary>
+    <br/>
+    🎮 &nbsp; I turn ideas into <b>interactive experiences</b><br/><br/>
+    💬 &nbsp; Ask me about <b>web dev, game dev &amp; databases</b><br/><br/>
+    🚀 &nbsp; Always exploring <b>new tech &amp; tools</b>
+  </details>
 </p>
 
 <br/>
