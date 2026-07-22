@@ -1,5 +1,5 @@
 <!-- ===================== HEADER BACKGROUND ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00C6FF&height=180&section=header&text=Joshua%20Anderson%20Padilla&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Developer%20from%20the%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Background" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:717171,100:9e9e9e&height=180&section=header&text=Joshua%20Anderson%20Padilla&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Developer%20from%20the%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Background" />
 
 <!-- Visitor Badge -->
 <p align="right">
@@ -102,4 +102,4 @@
 </div>
 
 <!-- ===================== FOOTER BACKGROUND ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:4169E1,100:8A2BE2&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=70&animation=fadeIn" alt="Footer Background" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9e9e9e,50:717171,100:434343&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=70&animation=fadeIn" alt="Footer Background" />
