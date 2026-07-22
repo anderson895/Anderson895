@@ -1,5 +1,5 @@
 <!-- ===================== HEADER BACKGROUND ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Joshua%20Anderson%20Padilla&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Developer%20from%20the%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Background" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&animation=fadeIn" alt="Header Background" />
 
 <!-- Visitor Badge -->
 <p align="right">
