@@ -27,8 +27,12 @@
   </a>
 </p>
 
+<!-- ===================== DEV QUOTE (changes on refresh) ===================== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
 <!-- ===================== ANIMATED DIVIDER ===================== -->
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 <!-- ===================== ABOUT ME ===================== -->
@@ -123,11 +127,33 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anderson895&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
+<!-- ===================== PROFILE SUMMARY CARDS ===================== -->
+<h2 align="center">📈 Profile Summary</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anderson895&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anderson895&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anderson895&theme=tokyonight" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anderson895&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anderson895&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</p>
+
 <!-- ===================== TROPHIES ===================== -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anderson895&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</p>
+
+<!-- ===================== RANDOM DEV JOKE ===================== -->
+<h2 align="center">😄 A Random Dev Joke</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 </p>
 
 <!-- ===================== FOOTER WAVE ===================== -->
