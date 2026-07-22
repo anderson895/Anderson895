@@ -16,9 +16,11 @@
 <br/>
 
 <!-- 💼 About Me -->
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   🔭 I’m currently working as a freelance web and game developer.
 </div>
+
+<br/>
 
 <!-- 📫 Contact -->
 <div align="center" style="margin-top: 10px;">
