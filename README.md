@@ -1,15 +1,12 @@
-<!-- ===================== HEADER BACKGROUND ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&animation=fadeIn" alt="Header Background" />
+<!-- ===================== HEADER (typing on dark banner) ===================== -->
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=4000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&height=180&lines=Hi!+%F0%9F%91%8B+I'm+Joshua+Anderson+Padilla!;Software+Developer+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
+</p>
 
 <!-- Visitor Badge -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="Visitor Badge" />
 </p>
-
-<!-- Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Joshua+Anderson+Padilla!" alt="Typing SVG" />
-</h1>
 
 <h3 align="center">💻 A passionate software developer from the Philippines 🇵🇭</h3>
 
